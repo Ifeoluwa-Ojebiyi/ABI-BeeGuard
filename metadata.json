@@ -1,0 +1,6 @@
+{
+  "name": "ABI-BEEGUARD - AI Beehive & Environmental Safety Network",
+  "description": "Solar-powered AI biological sensing network turning beehives into intelligent environmental monitoring stations with real-time acoustic inference, 100-hive telemetry, and rural enterprise models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
